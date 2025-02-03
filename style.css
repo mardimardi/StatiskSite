@@ -1,0 +1,17 @@
+.grid_3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+a {
+  border: solid;
+  text-align: center;
+  color: antiquewhite;
+  padding: 2rem;
+  background-color: rgba(135, 37, 37, 0.545);
+}
+
+.box7 {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
